@@ -8,9 +8,9 @@
         "app_open": "ca-app-pub-3940256099942544/3419835294"
     },
     "facebook": {
-        "banner": "fb_test_banner",
-        "native": "fb_test_native",
-        "interstitial": "fb_test_interstitial",
+        "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "reward": "fb_test_reward",
         "reward_interstitial": "fb_test_reward_interstitial",
         "native_banner": "fb_test_native_banner",
