@@ -1,4 +1,4 @@
-[{
+{
   "google": {
         "banner": "ca-app-pub-3940256099942544/6300978111",
         "interstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -16,5 +16,4 @@
         "native_banner": "fb_test_native_banner",
         "medium_rectangle": "fb_test_medium_rectangle"
     }
-  }
-]
+}
