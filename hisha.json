@@ -1,0 +1,19 @@
+{
+ "google": {
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "reward": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "reward_interstitial": "ca-app-pub-3940256099942544/5354046379",
+        "app_open": "ca-app-pub-3940256099942544/3419835294"
+    },
+    "facebook": {
+        "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "reward": "fb_test_reward",
+        "reward_interstitial": "fb_test_reward_interstitial",
+        "native_banner": "fb_test_native_banner",
+        "medium_rectangle": "fb_test_medium_rectangle"
+    }
+}
