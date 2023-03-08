@@ -8,9 +8,9 @@
         "app_open": "ca-app-pub-3940256099942544/3419835294"
     },
     "facebook": {
-        "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "banner": "5804376219584560_5830253233663525",
+        "native": "5804376219584560_5830259846996197",
+        "interstitial": "5804376219584560_5830256203663228",
         "reward": "fb_test_reward",
         "reward_interstitial": "fb_test_reward_interstitial",
         "native_banner": "fb_test_native_banner",
