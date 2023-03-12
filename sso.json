@@ -15,5 +15,8 @@
         "reward_interstitial": "fb_test_reward_interstitial",
         "native_banner": "fb_test_native_banner",
         "medium_rectangle": "fb_test_medium_rectangle"
-    }
+    },
+     "version":{
+       "vcode":1
+  }
 }
