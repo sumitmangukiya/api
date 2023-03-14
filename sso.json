@@ -8,16 +8,16 @@
         "app_open": "ca-app-pub-3940256099942544/3419835294"
     },
     "facebook": {
-        "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_IDs",
+        "native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_IDs",
+        "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_IDs",
         "reward": "fb_test_reward",
         "reward_interstitial": "fb_test_reward_interstitial",
         "native_banner": "fb_test_native_banner",
         "medium_rectangle": "fb_test_medium_rectangle"
     },
      "version":{
-       "vcode":3,
+       "vcode":4,
        "privacy":"https://educationinformation173.blogspot.com/2023/01/sso-id-raj.html"
   }
 }
