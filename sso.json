@@ -13,7 +13,7 @@
     "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
   },
   "version": {
-    "vcode": 2,
+    "vcode": 4,
     "privacy": "https://developers.facebook.com/docs/audience-network/setting-up/test/test-device/"
   }
 }
